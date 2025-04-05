@@ -1,6 +1,6 @@
 # Bruno Assumpção de Moura Marques
 
-**`Cientista de Dados`**
+**`Cientista de Dados | Machine Learning, Python & Estatística | MySQL | PySpark | AWS`**
 
 Profissional formado em Engenharia de Produção com uma trajetória sólida em otimização de processos e análise de dados, agora focado em consolidar uma carreira como Cientista de Dados.
 
@@ -10,6 +10,7 @@ Perfil novo, aguarde para atualizações em modelos, testes e métricas Estatís
 
 ### 🤖 Linguagens e Tecnologias
 
+<br/>
 
 <img 
     align="left" 
@@ -21,7 +22,8 @@ Perfil novo, aguarde para atualizações em modelos, testes e métricas Estatís
 />
 
 <br/>
-<br/>
+
+---
 
 ### 📊 Estatísticas
 
