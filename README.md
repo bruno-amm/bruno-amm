@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bruno Assumpção de Moura Marques
+# Bruno Assumpção de Moura Marques
 
 **`Cientista de Dados`**
 
