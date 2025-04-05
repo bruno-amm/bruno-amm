@@ -4,6 +4,8 @@
 
 Profissional formado em Engenharia de Produção com uma trajetória sólida em otimização de processos e análise de dados, agora focado em consolidar uma carreira como Cientista de Dados.
 
+Perfil novo, aguarde para atualizações em modelos, testes e métricas Estatísticas e modelos de Machine Learning de Classificação, Regressão e Clusterização.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
